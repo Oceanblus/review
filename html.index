@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>复盘</title>
+    <style type="text/css">
+     h1{
+        text-align:center;
+        font-size:100px;
+        }
+     </style>
+     
+     
+    <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+        }
+​
+        body{
+            width: 800px;
+            margin: 0 auto;
+        }
+​
+        #header{
+            height: 80px;
+            background: red;
+        }
+​
+        #nav{
+            height: 40px;
+            background: green;
+        }
+​
+        #main{
+            height: 400px;
+            background: blue;
+
+        }
+        .left{
+            width: 400px;
+            height: 400px;
+            background: yellow;
+            float: left;
+        }
+        .right{
+            width: 400px;
+            height: 400px;
+            background: gold;
+            float: left;
+        }
+        #footer{
+            height: 60px;
+            background: pink;
+        }
+    </style>
+</head>
+
+
+<body>
+    <div id="header"></div>
+    <div id="nav"></div>
+    <div id="main">
+        <div class="left">左侧</div>
+        <div class="right">右侧</div>
+    </div>
+    <div id="footer"></div>
+
+       
+        <h1 >复盘</h1 >
+        <h2>时间：12.10</h2>
+        <p > 这是11.3~12.10共38天作为策划的复盘。</p>
+		<p>目标，1，成为更成熟的策划，能够回答当时面试时没答出来的问题：如何带领团队做一款游戏？</p>
+		          <p>2，在美术方面有所练习。</p>
+		          <p>3，尝试学习程序方面知识。</p>
+              <br>
+		<p>实际，1，或许在处理文案方面更成熟，但我仍然不知道该如何与程序还有美术一同完成我的想法。具体的流程仍然是未知的。</p>
+		          <p>2，在美术方面还是老样子，我可以画出简单的线条画，包括非人物素描，但谈到上色就是另一个故事了。</p>
+		          <p>3，程序没有长进，还是新人任务的第一期的样子。 </p>
+              <p>4，学习电影拍摄时，导演对色彩的把握，从电影拍摄领悟了一些简单的画面色彩的控制，以及特效制作的思路。</p>
+              <p>5，了解了一些精彩（冗长）的故事如“去月球”，“黑暗之魂”，“只狼”</p>
+              <p>6，	了解了一些关于行为树的知识</p>
+              <p>7，了解了一些关于就业的经验</p>
+              <br>
+		<p>内因，1，低估了许多事情的难度，高估了自己的水平。blog想要自己写网页，但发现想要学明白要看厚厚的好几本书。然后现在就不伦不类的了。
+		          <p>2，没有一个清晰的计划，使得策划方面的学习不太主动。
+		          <p>3，老是把时间浪费在无聊的游戏和其他奇怪的东西上了，不紧凑
+              <br>
+        <p>外因，1，自动车比赛有点坑，欺负我是小白，浪费好多时间，那些时间本可以用来学unity的
+		          2，手绘板出了些问题，ps无压感
+              <br>
+		未来解决方案，1，积极参加game jam活动
+              2，积极画画，争取在放假前，画2篇彩绘
+			       3，程序方面，好好看看c#的书，争取在放假前看3章
+			       4，尽量减少其他乱七八糟活动参与度
+		         5，读完《ZEN and the art of Motorcycle Maintenance》
+             <br>
+		<p>很清晰的能够看出，实际在做的事和计划有些出入，事实上，相去甚远。对计划的低忠诚度，和生活的意料之外想来着实令人沮丧。
+		大概就是这样，感觉刚刚在大学里活出点规律，就要结束了。希望自己在未来的日子中能作为一名策划有更多进步。            
+		希望新的日子里能紧绷的生活。</p> 
+	
+</body>
+        </html >
+
+
